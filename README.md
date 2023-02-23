@@ -1,2 +1,2 @@
-# lighthous
+# lighthouse
 lighthouse
